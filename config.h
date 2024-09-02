@@ -1,7 +1,7 @@
 /* See LICENSE file for copyright and license details. */
 
 static char *fontfallbacks[] = {
-	"Fantasque Sans Mono",
+	"UbuntuMono Nerd Font",
 	"roboto",
 	"ubuntu",
 };
